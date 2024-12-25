@@ -1,0 +1,4 @@
+Macro strategy python libraries 
+yfinance
+matplotlib.pyplot
+pandas
